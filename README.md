@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5edc742-ca14-4cb5-aca3-69110432a714" /># GlobalTech-Solutions-Workforce-Analysis
+# GlobalTech-Solutions-Workforce-Analysis
 A complete workforce and compensation analysis project using Excel, including data cleaning, ETL, pivot tables, and dashboard visualization.
 ## BUSINESS OBJECTIVES
 1. Which employees have been with the company more than 10 years?
